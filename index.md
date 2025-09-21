@@ -13,7 +13,6 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
-```
 ## Welcome
 The **OWASP Universidad Politécnica de Yucatán Student Chapter** is a community of students passionate about cybersecurity, application security, and privacy.  
 Our mission is to promote awareness, education, and hands-on learning about secure software development practices and the broader cybersecurity ecosystem.  
@@ -35,7 +34,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 {% include chapter_events.html group=page.meetup-group %}
 {% endcomment %}
 
-```
 {info.md}
 
 This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
