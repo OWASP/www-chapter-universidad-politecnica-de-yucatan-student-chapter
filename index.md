@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Universidad Politecnica de Yucatan Student Chapter
-tags: example-tag
+tags: information-security
 region: North America
 country: Mexico
-meetup-group:
+meetup-group: https://www.meetup.com/owasp-universidad-politecnica-de-yucatan-student-chapter
 
 ---
 
@@ -35,7 +35,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 {% endcomment %}
 
 
-{% info.md %}
+{% include_relative info.md %}
 
-{% leaders.md %}
+{% include_relative leaders.md %}
 
