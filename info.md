@@ -3,4 +3,4 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-universidad-politecnica-de-yucatan-student-chapter)
-* [LinkedIn](http://linkedin.com/school/owasp-upy-chapter)
+* [LinkedIn](https://www.linkedin.com/company/owasp-upy-chapter)
