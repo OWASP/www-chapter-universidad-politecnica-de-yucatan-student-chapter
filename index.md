@@ -35,7 +35,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 {% endcomment %}
 
 
-{% include info.md %}
+{% info.md %}
 
-{% include leaders.md %}
+{% leaders.md %}
 
