@@ -1,0 +1,29 @@
+leaders:
+  - name: Angel Arturo Pech Che
+    email: angelpc@owasp.org
+  - name: Fernando Ricardo Castillo Contreras
+    email: fernando.castillo@owasp.org
+  - name: Julio David Marquez Arjona
+    email: julio.arjona@owasp.org
+  - name: Angel Solís Perez
+    email: angel.solis@owasp.org
+  - name: Ricardo Daniel Horta Sanchez
+    email: ricardo.sanchez@owasp.org
+location:
+  country: Mexico
+  country_code: MX
+  region: Yucatán
+  city: Mérida
+  latitude: 20.9670759
+  longitude: -89.6237402
+meetup_group: owasp-universidad-politecnica-de-yucatan-student-chapter
+name: OWASP Universidad Politecnica de Yucatan Student Chapter
+repositories:
+  - name: www-chapter-universidad-politecnica-de-yucatan-student-chapter
+    url: https://github.com/OWASP/www-chapter-universidad-politecnica-de-yucatan-student-chapter
+    description: OWASP Foundation web repository
+tags:
+  - information-security
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-universidad-politecnica-de-yucatan-student-chapter
